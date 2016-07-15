@@ -1,0 +1,22 @@
+{
+  "name": "domala",
+  "version": "0.1.0",
+  "description": "Domala is a miniapp, to calculate expenses of building a house.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bolatus/domala.git"
+  },
+  "author": "Bolat Tussupzhanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bolatus/domala/issues"
+  },
+  "homepage": "https://github.com/Bolatus/domala#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
