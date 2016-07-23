@@ -24,6 +24,10 @@ angular
         templateUrl: 'views/main.html',
         controller: 'MainCtrl',
         controllerAs: 'main'
+      }).when('/calc', {
+        templateUrl: 'views/calc.html',
+        controller: 'CalcCtrl',
+        controllerAs: 'calc'
       })
       .otherwise({
         redirectTo: '/'
